@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/klen/aio-databases/commit/a072cd47cbdf3b8f0b84551da645231db4bc9149",
       "git:hexsha": "a072cd47cbdf3b8f0b84551da645231db4bc9149",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.0.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.0.0",
+      "repolex:parsedAt": "2026-10-20T22:05:00.303913+00:00"
     },
     {
       "@id": "https://repolex.ai/r/klen/aio-databases/commit/ea4b3318bd528059437b7696ecaae37d90ceefe1",
