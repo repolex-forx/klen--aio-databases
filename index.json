@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "aio-databases",
+  "versions": [
+    {
+      "commit": "a072cd47cbdf3b8f0b84551da645231db4bc9149",
+      "tag": "2.0.0",
+      "parsed_at": "2026-10-20T22:05:00.304721+00:00"
+    }
+  ]
+}
